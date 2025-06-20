@@ -1,4 +1,4 @@
-Welcome to my Java Learnings! 
+Welcome to my Java and DSA Learnings! 
 
 🛠 How to Run the Code
 
