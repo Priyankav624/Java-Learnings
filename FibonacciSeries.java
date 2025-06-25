@@ -6,7 +6,7 @@ public class FibonacciSeries {
         int secondNo = 1;
 
         for(int i = 0; i< n; i++){
-            System.out.println(firstNo);
+            System.out.print(firstNo + " " );
             int result = firstNo + secondNo;
             firstNo = secondNo;
             secondNo = result;
@@ -20,6 +20,8 @@ public class FibonacciSeries {
         //     firstNo = temp;
         //     result++;
         // }
+
+        // System.out.println(secondNo);
     }
 
     public static void main(String[] args) {
