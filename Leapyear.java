@@ -19,5 +19,7 @@ public class Leapyear {
         int number = sc.nextInt();
         if(leapyear(number)) System.out.println(number + " is a leap year");
         else System.out.println(number+ " is not a leap year");
+        sc.close();
+
     }
 }

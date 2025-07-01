@@ -14,5 +14,7 @@ public class MultiplicationTable {
         System.out.println("Enter the number: ");
         int n = sc.nextInt();
         multiply(n);
+        sc.close();
+
     }
 }

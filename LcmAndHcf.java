@@ -24,5 +24,7 @@ public class LcmAndHcf {
         int n2 = sc.nextInt();
         System.out.println(lcm(n1, n2));
         System.out.println(hcf(n1, n2));
+        sc.close();
+
     }
 }

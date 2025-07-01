@@ -26,5 +26,6 @@ public class SumOfNumbers {
             }
         }
         System.out.println(sumOfNumbers);
+        sc.close();
     }
 }

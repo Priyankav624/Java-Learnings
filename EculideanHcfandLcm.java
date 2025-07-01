@@ -21,5 +21,7 @@ public class EculideanHcfandLcm {
         int b = sc.nextInt();
         System.out.println("HCF: " + hcf(a, b));
         System.out.println("LCM: " + lcm(a, b));
+        sc.close();
+
     }
 }

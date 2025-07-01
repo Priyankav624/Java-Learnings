@@ -10,5 +10,7 @@ public class CurrencyConverter {
         double usd = rupee / exchangeRate;
 
         System.out.printf("Amount in usd :$%.2f%n" , usd);
+        sc.close();
+
     }
 }
